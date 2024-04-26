@@ -15,7 +15,7 @@ The Product Showcase Webpage is a responsive web application designed to display
 
 * __Explore Categories__: Click on Men, Women, or Kids tabs to explore products in different categories. 
 * __Open index.html__: Open the index.html file in your preferred web browser. 
-* __Test Responsiveness: Resize the browser window to test how the layout adjusts across different devices.
+* __Test Responsiveness__: Resize the browser window to test how the layout adjusts across different devices.
 
 ## Credits 
 
